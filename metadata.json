@@ -1,0 +1,6 @@
+{
+  "name": "ADK Agent Codelab",
+  "description": "Interactive codelab for learning the Google Agent Development Kit, from single agents to multi-agent coordinate architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
